@@ -1,1 +1,1 @@
-# Projeto contruído durante a Next Level Week #01
+# Projeto construido durante a Next Level Week #01
