@@ -16,8 +16,10 @@
 
 
 <p align="center">
-  <img  heigth="20px" src="https://user-images.githubusercontent.com/60434681/84028576-59b54900-a967-11ea-8b7a-f11031e3295c.png?raw=true" alt="Nodejs logo"/>
+  <img   width="150" height="170" heigth="20px" src="https://user-images.githubusercontent.com/60434681/84028576-59b54900-a967-11ea-8b7a-f11031e3295c.png?raw=true" alt="Nodejs logo"/>
 </p>
+
+
 
 
 # Back-End
@@ -84,6 +86,11 @@
 
 
 
+<p align="center">
+  <img    src="https://user-images.githubusercontent.com/60434681/84029786-591db200-a969-11ea-992b-c760347c1dbb.png?raw=true" alt="React logo"/>
+</p>
+
+
 # Front-End
 
 - [x]  Explicando conceitos
@@ -141,6 +148,12 @@
 
     - [x]  Cadastro de pontos de coletas da API
 
+
+
+
+<p align="center">
+  <img   width="200" height="140" src="https://user-images.githubusercontent.com/60434681/84029797-5e7afc80-a969-11ea-8d42-2b8672f1f89b.png?raw=true" alt="Reacr native logo"/>
+</p>
 
 
 
