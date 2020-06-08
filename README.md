@@ -3,6 +3,8 @@
 
 
 
+
+
 🍃 O Projeto foi desenvolvido durante a semana internacional do Meio Ambiente, Ecoleta serve para conectar empresa ou entidades que coletam resíduos orgânicos ou inorgânicos as pessoas que precisam descarta esses reśiduos.
 
 - [x]  Ambiente de desenvolvimento
@@ -10,6 +12,12 @@
     - [x]  VScode
 
 
+
+
+
+<p align="center">
+  <img  heigth="20px" src="https://user-images.githubusercontent.com/60434681/84028576-59b54900-a967-11ea-8b7a-f11031e3295c.png?raw=true" alt="Nodejs logo"/>
+</p>
 
 
 # Back-End
