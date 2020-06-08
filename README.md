@@ -108,6 +108,18 @@
 
 ### Aplicação Ecoleta
 
+- Home
+![home](https://user-images.githubusercontent.com/60434681/84028374-f7f4df00-a966-11ea-9ef6-cddde1061d76.png)
+
+- Cadastro
+
+
+![cadastro](https://user-images.githubusercontent.com/60434681/84028362-f3c8c180-a966-11ea-9b66-5888ddc3fee5.png)
+
+- Mapa & itens
+
+![map](https://user-images.githubusercontent.com/60434681/84028382-faefcf80-a966-11ea-8edd-bd0b0b8a1834.png)
+
 
 
 - [x]  Buscando dados de cidades do IBGE
